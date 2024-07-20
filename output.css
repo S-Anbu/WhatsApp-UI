@@ -695,6 +695,10 @@ video {
   right: 1.5rem;
 }
 
+.right-7 {
+  right: 1.75rem;
+}
+
 .right-8 {
   right: 2rem;
 }
@@ -883,6 +887,10 @@ video {
   height: 1.5rem;
 }
 
+.h-9 {
+  height: 2.25rem;
+}
+
 .h-\[18px\] {
   height: 18px;
 }
@@ -905,6 +913,10 @@ video {
 
 .w-6 {
   width: 1.5rem;
+}
+
+.w-9 {
+  width: 2.25rem;
 }
 
 .w-\[18px\] {
@@ -2126,6 +2138,10 @@ video {
   padding: 0.375rem;
 }
 
+.p-2 {
+  padding: 0.5rem;
+}
+
 .p-3 {
   padding: 0.75rem;
 }
@@ -2784,6 +2800,10 @@ video {
 .forced-color-adjust-none {
   forced-color-adjust: none;
 }
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+
+/* Hide scrollbar for IE, Edge and Firefox */
 
 .\[vite\:css\] {
   vite: css;
